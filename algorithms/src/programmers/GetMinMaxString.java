@@ -23,7 +23,7 @@ public class GetMinMaxString {
     public static void main(String[] args) {
         String str = "1 2 3 4";
         GetMinMaxString minMax = new GetMinMaxString();
-        //¾Æ·¡´Â Å×½ºÆ®·Î Ãâ·ÂÇØ º¸±â À§ÇÑ ÄÚµåÀÔ´Ï´Ù.
-        System.out.println("ÃÖ´ë°ª°ú ÃÖ¼Ò°ªÀº?" + minMax.getMinMaxString(str));
+        
+        System.out.println("ìµœëŒ€ê°’ê³¼ ìµœì†Œê°’ì€?" + minMax.getMinMaxString(str));
     }
 }

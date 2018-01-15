@@ -5,7 +5,7 @@ import java.util.Collections;
 
 public class ReverseStr {
 	public String reverseStr(String str) {
-    String[] array = str.split(""); //splitÀº °ªÀ» ¹è¿­·Î ¸®ÅÏ
+    String[] array = str.split(""); 
   
     Arrays.sort(array,  Collections.reverseOrder());
 		
@@ -14,6 +14,7 @@ public class ReverseStr {
 
 	public static void main(String[] args) {
 		ReverseStr rs = new ReverseStr();
-		System.out.println(rs.reverseStr("Zbcdefg") );
+		
+		System.out.println("ê²°ê³¼ëŠ” : " + rs.reverseStr("Zbcdefg"));
 	}
 }

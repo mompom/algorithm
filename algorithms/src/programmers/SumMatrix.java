@@ -23,9 +23,9 @@ class SumMatrix {
 		
 		if (answer[0][0] == 4 && answer[0][1] == 6 && 
 				answer[1][0] == 7 && answer[1][1] == 9) {
-			System.out.println("¸Â¾Ò½À´Ï´Ù. Á¦ÃâÀ» ´­·¯ º¸¼¼¿ä");
+			System.out.println("ë§ì•˜ìŠµë‹ˆë‹¤. ì œì¶œì„ ëˆŒëŸ¬ ë³´ì„¸ìš”");
 		} else {
-			System.out.println("Æ²·È½À´Ï´Ù. ¼öÁ¤ÇÏ´Â°Ô ÁÁ°Ú¾î¿ä");
+			System.out.println("í‹€ë ¸ìŠµë‹ˆë‹¤. ìˆ˜ì •í•˜ëŠ”ê²Œ ì¢‹ê² ì–´ìš”");
 		}
 	}
 }
