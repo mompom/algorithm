@@ -1,4 +1,4 @@
-package programmers;
+package programmers_level1;
 
 public class GetMean {
 	public int getMean(int[] array) {

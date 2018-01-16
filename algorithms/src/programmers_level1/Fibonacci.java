@@ -1,4 +1,4 @@
-package programmers;
+package programmers_level1;
 
 class Fibonacci {
 	public long fibonacci(int num) {

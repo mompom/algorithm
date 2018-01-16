@@ -1,4 +1,4 @@
-package programmers;
+package programmers_level1;
 
 public class FindKim {
 	public String findKim(String[] seoul){
